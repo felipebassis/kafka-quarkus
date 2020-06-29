@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # kafka-quarkus-poc project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
@@ -28,3 +29,7 @@ Or, if you don't have GraalVM installed, you can run the native executable build
 You can then execute your native executable with: `./target/kafka-quarkus-poc-1.0.0-SNAPSHOT-runner`
 
 If you want to learn more about building native executables, please consult https://quarkus.io/guides/building-native-image.
+=======
+# kafka-quarkus
+A project demonstrating the usage of Kafka's native API with the Quarkus Framework
+>>>>>>> 9c4769c4a5930ee5135ca2dcb86c723dd60df1ff
